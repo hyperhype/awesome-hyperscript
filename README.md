@@ -22,6 +22,7 @@ Awesome list of everything hyperscript
 ## VDOM
 
 - 🔌 https://github.com/Matt-Esch/virtual-dom
+- 🔌 https://github.com/tunnckoCore/mich-h
 
 ## App Frameworks
 
