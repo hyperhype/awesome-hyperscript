@@ -23,6 +23,7 @@ Awesome list of everything hyperscript
 
 - 🔌 https://github.com/Matt-Esch/virtual-dom
 - 🔌 https://github.com/tunnckoCore/mich-h
+- 🔌 https://github.com/syntax-tree/hastscript
 
 ## App Frameworks
 
