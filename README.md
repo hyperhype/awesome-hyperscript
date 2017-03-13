@@ -6,6 +6,11 @@ Awesome list of everything hyperscript
 - 💯🔌 - provides both of the above
 
 
+## Learning
+
+- [wtf is jsx](https://jasonformat.com/wtf-is-jsx) - a good introduction to hyperscript and JSX concepts
+
+
 ## Discovery
 
 - [npm search](https://npms.io/search?q=hyperscript) - returns hundreds of packages
@@ -15,22 +20,23 @@ Awesome list of everything hyperscript
 
 ## Element Creation
 
-- 💯 https://github.com/substack/hyperx
-- 🔌 https://github.com/queckezz/elementx
-- 🔌 https://github.com/ohanhi/hyperscript-helpers
+- 💯 [hyperx](https://github.com/substack/hyperx)
+- 🔌 [elementx](https://github.com/queckezz/elementx)
+- 🔌 [hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers)
 
 ## VDOM
 
-- 🔌 https://github.com/Matt-Esch/virtual-dom
-- 🔌 https://github.com/tunnckoCore/mich-h
-- 🔌 https://github.com/syntax-tree/hastscript
+- 🔌 [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
+- 🔌 [mich-h](https://github.com/tunnckoCore/mich-h)
+- 🔌 [hastscript](https://github.com/syntax-tree/hastscript)
 
 ## App Frameworks
 
-- https://github.com/hyperapp/hyperapp - immutable apps
-- 🔌 https://github.com/infernojs/inferno via [inferno-hyperscript](https://www.npmjs.org/package/inferno-hyperscript)
-- 🔌 https://github.com/developit/preact via [preact-hyperscript](https://github.com/queckezz/preact-hyperscript)
+- [hyperapp](https://github.com/hyperapp/hyperapp) - immutable apps
+- 🔌 [mithril](http://mithril.js.org)
+- 🔌 [inferno](https://github.com/infernojs/inferno) via [inferno-hyperscript](https://www.npmjs.org/package/inferno-hyperscript)
+- 🔌 [preact](https://github.com/developit/preact) via [preact-hyperscript](https://github.com/queckezz/preact-hyperscript)
 
 ## UI Bootstraps
 
-- https://github.com/twilson63/material-hyperscript
+- [material-hyperscript](https://github.com/twilson63/material-hyperscript)
