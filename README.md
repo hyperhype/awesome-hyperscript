@@ -21,7 +21,7 @@ Awesome list of everything hyperscript
 ## Element Creation
 
 - 💯 [hyperscript](https://github.com/hyperhype/hyperscript)
-- 💯 [hyps](https://github.com/ahdinosaur/hyps)
+- 🔌 [hyps](https://github.com/ahdinosaur/hyps)
 - 💯 [hyperx](https://github.com/substack/hyperx)
 - 🔌 [elementx](https://github.com/queckezz/elementx)
 - 🔌 [hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers)
